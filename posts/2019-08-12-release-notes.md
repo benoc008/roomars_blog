@@ -3,7 +3,7 @@
 With this weeks release many of our features will be available to the participants of the Beta tester programme.
 Among visual changes in the static pages, such as get started and documentation, the new object type and room types can now be tested.
 
----
+___
 ## New object type
 The new object type is the Image type. From now on if you want to upload an image of either a picure, a powerpoint slide or anything, you don't have to create a flat 3D Object for it. Just upload the image, specify the real world size and it will be done automatically for you.
 
