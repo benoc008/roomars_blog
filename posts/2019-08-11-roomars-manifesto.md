@@ -1,4 +1,4 @@
-Roomars manifesto
+# Roomars manifesto
 
 Think of a world where what you see does not necessarily has to be present. Where the reality around you can be extended on your will. 
 When you try to find your way across the city arrows appear on the facade of the buildings, but not permanently. As you take the turn they disappear, and you are the only one to see them. When you try to renovate your apartment, you could see the walls changing and the rooms getting furnished in different styles. Even before you purchase anything you can measure the perfect fit by size and by design. Imagine going to the Natural History Museum and the physical bones of that Tyrannosaurus Rex getting complete in front of your eyes with flesh and skin just as it was 68 million years ago.
